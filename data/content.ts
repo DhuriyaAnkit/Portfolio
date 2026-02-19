@@ -154,6 +154,51 @@ export const skills = [
   },
 ];
 
+export const gallery = [
+  {
+    id: 1,
+    title: 'Portfolio Showcase',
+    description: 'Collection of my recent work and projects',
+    image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&h=500&fit=crop',
+    category: 'Work',
+  },
+  {
+    id: 2,
+    title: 'Conference Speaking',
+    description: 'Tech talk at International Web Developer Conference',
+    image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=500&fit=crop',
+    category: 'Speaking',
+  },
+  {
+    id: 3,
+    title: 'Team Collaboration',
+    description: 'Working with amazing development team',
+    image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=500&fit=crop',
+    category: 'Team',
+  },
+  {
+    id: 4,
+    title: 'Office Setup',
+    description: 'My workspace and development environment',
+    image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&h=500&fit=crop',
+    category: 'Work',
+  },
+  {
+    id: 5,
+    title: 'Hackathon Winner',
+    description: 'First place at Annual Dev Hackathon',
+    image: 'https://images.unsplash.com/photo-1460925895917-aec73dc49cf3?w=500&h=500&fit=crop',
+    category: 'Achievement',
+  },
+  {
+    id: 6,
+    title: 'Open Source Contribution',
+    description: 'Contributing to community projects',
+    image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=500&fit=crop',
+    category: 'Community',
+  },
+];
+
 export const contact = {
   title: 'Get In Touch',
   description: 'Have a project in mind? Feel free to reach out to discuss opportunities.',

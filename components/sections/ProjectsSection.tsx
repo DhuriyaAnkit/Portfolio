@@ -77,13 +77,20 @@ export default function ProjectsSection() {
                   </div>
 
                   {/* Link */}
-                  <Button
-                    variant="primary"
-                    size="sm"
+                  <a 
+                    href={project.link} 
+                    target="_blank" 
+                    rel="noopener noreferrer"
                     className="w-full"
                   >
-                    View Project →
-                  </Button>
+                    <Button
+                      variant="primary"
+                      size="sm"
+                      className="w-full"
+                    >
+                      View Project →
+                    </Button>
+                  </a>
                 </div>
               </Card>
             </div>
