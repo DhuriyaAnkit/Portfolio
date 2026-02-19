@@ -13,6 +13,7 @@ export const hero = {
   title: 'Dhuriya Ankit Subhash',
   subtitle: 'Full-stack Developer & Engineer',
   bio: 'Building innovative web solutions with modern technologies. Passionate about clean code and great user experiences.',
+  image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop',
   cta: [
     { text: 'View Work', href: '#projects', variant: 'primary' },
     { text: 'Get In Touch', href: '#contact', variant: 'secondary' },
