@@ -28,7 +28,7 @@ export default function EducationSection() {
   }, []);
 
   return (
-    <section className="section-padding">
+    <section id="education" className="section-padding">
       <div className="container-custom">
         <h2 className="text-4xl md:text-5xl font-bold mb-12 text-center">
           Education

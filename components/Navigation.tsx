@@ -7,6 +7,7 @@ import ThemeToggle from '@/components/ui/ThemeToggle';
 import { siteConfig } from '@/data/content';
 
 const navItems = [
+  { label: 'Home', href: '#home' },
   { label: 'About', href: '#about' },
   { label: 'Experience', href: '#experience' },
   { label: 'Projects', href: '#projects' },

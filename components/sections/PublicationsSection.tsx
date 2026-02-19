@@ -29,7 +29,7 @@ export default function PublicationsSection() {
   }, []);
 
   return (
-    <section className="section-padding">
+    <section id="publications" className="section-padding">
       <div className="container-custom">
         <h2 className="text-4xl md:text-5xl font-bold mb-12 text-center">
           Publications
